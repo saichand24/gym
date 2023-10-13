@@ -14,6 +14,7 @@ function Feature() {
             <Featurebox image={fimage2} title="Specific Muscle" />
             <Featurebox image={fimage3} title="Flex Your Muscle" />
             <Featurebox image={fimage4} title="Cardio Exercise" />
+            
         </div>
     </div>
   )
